@@ -24,7 +24,7 @@ webpage2 <- read_html(url2)
 
 Leagues <- webpage2 %>% html_table() %>% as.data.frame()
 
-colnames(Leagues) <- c("League", "Country")
+colnames(Leagues) <- c("League", "Country" )
 
 
 
