@@ -1,0 +1,12 @@
+name: FIFA-Randomizer
+title: FIFA-Randomizer
+username: akc4
+account: akc4
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9700235
+bundleId: 7618734
+url: https://akc4.shinyapps.io/FIFA-Randomizer/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
